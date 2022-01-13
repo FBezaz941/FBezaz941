@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @FBezaz941
-- 👀 I’m interested in App development using JS
-- 🌱 I’m currently learning full stack development and mathematical programming in python
-- 💞️ I’m looking to collaborate on web application projects
-- 📫 How to reach me at fattahbezaz@gmail.com
+- 👀 I’m interested in Technology
+- 🌱 I’m currently researching Quantum Information Theory
+
 
 <!---
 FBezaz941/FBezaz941 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
